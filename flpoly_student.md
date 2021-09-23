@@ -4,13 +4,14 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Introduction to Data Science
+| Prefix   | Number   | Name                                       | Credits   |
+| :--------| :--------| :------------------------------------------| :---------|
+|**COP**   |**2073**  | _Introduction to Data Science_             |3          |
+|**COP**   |**2034**  | _Introduction to Programming Using Python_ |3          |
+|**CTS**   |**2375**  | _Cloud Infrastructure and Services_        |3          |
+|**MAC**   |**2311**  | _Analytic Geometry and Calculus 1_         |4          |
+|**SLS**   |**1901**  | _Foundations for Academic Success_         |0          |
 
-- Introduction to Programming Using Python
-
-- Analytic Geometry and Calculus 1
-
-- Foundations for Academic Success
 
 **Hobbies:**
 
